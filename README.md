@@ -1,0 +1,1 @@
+A low-level language is a type of programming language that contains basic instructions recognized by a computer. Unlike high-level languages used by software developers, low-level code is often cryptic and not human-readable.
